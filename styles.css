@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.actimg{
+	width:80%;
+	height:30%;
+	object-fit:cover;
+}
+.para>button{
+	background-color:red;
+	color:white;
+	font-weight:800;
+	border-radius:10px;
+}
